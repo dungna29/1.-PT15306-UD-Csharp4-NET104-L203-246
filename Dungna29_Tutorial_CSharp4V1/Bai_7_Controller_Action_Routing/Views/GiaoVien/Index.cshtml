@@ -1,0 +1,39 @@
+﻿@model Bai_7_Controller_Action_Routing.Models.TestGiaoVien
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        img {
+            float: left;
+            width: 70px;
+            height: 80px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Xin chào đây là View Index Giáo Viên</h2>
+    @* Hiển thị phần tử đầu tiên trong danh sách *@
+<img src="@Model._lstGiaoViens[0].Image" />
+<table>
+    <tr>
+        <td>Mã giáo viên: </td>
+        <td>@Model._lstGiaoViens[0].MaGV </td>
+    </tr>
+    <tr>
+        <td>Tên giáo viên: </td>
+        <td>@Model._lstGiaoViens[0].Ten </td>
+    </tr>
+    <tr>
+        <td>Email giáo viên: </td>
+        <td>@Model._lstGiaoViens[0].Email </td>
+    </tr>
+</table>
+</body>
+</html>
