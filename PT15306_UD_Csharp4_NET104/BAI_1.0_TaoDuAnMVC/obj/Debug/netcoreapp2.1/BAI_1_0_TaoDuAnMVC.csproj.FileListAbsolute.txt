@@ -24,3 +24,8 @@ D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246
 D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\BAI_1_0_TaoDuAnMVC.pdb
 D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\BAI_1_0_TaoDuAnMVC.genruntimeconfig.cache
 D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\BAI_1_0_TaoDuAnMVC.csproj.CopyComplete
+D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\BAI_1_0_TaoDuAnMVC.csprojAssemblyReference.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\Razor\Views\Fpoly\DeleteSv.cshtml.g.cs
+D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\Razor\Views\Fpoly\CreateSv.cshtml.g.cs
+D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layouts.cshtml.g.cs
+D:\Google Driver Dungna29\8. Demo\Demo C#4\1.-PT15306-UD-Csharp4-NET104-L203-246\PT15306_UD_Csharp4_NET104\BAI_1.0_TaoDuAnMVC\obj\Debug\netcoreapp2.1\Razor\Views\GV\Index.cshtml.g.cs

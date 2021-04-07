@@ -22,12 +22,23 @@ namespace BAI_1_0_TaoDuAnMVC.Controllers
         public IActionResult SinhVienUD()
         {
             return View();
+          
         }
 
         [NonAction]
         public string EditSV()
         {
             return "Sửa sinh viên";
+        }
+
+        
+        public IActionResult DeleteSv()
+        {
+            return View();
+        }
+        public IActionResult CreateSv()
+        {
+            return View();
         }
     }
 }

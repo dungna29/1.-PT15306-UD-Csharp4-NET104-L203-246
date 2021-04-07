@@ -30,7 +30,7 @@ namespace BAI_1_0_TaoDuAnMVC
             //app.UseMvc();
             app.UseMvc(routes =>
             {
-                routes.MapRoute("default", "{controller=Fpoly}/{action=Index}/{id?}");
+                routes.MapRoute("default", "{controller=GV}/{action=Index}/{id?}");
             });
            
 
