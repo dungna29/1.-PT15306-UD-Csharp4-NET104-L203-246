@@ -1,1 +1,0 @@
-﻿Trong bài này sẽ làm việc chính trên các file Program và appsettings
