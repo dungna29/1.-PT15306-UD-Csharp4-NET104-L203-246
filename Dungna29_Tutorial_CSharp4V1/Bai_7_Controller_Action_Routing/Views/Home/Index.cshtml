@@ -1,0 +1,25 @@
+﻿@model Bai_7_Controller_Action_Routing.Models.TestModel
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    
+</head>
+@section Header {
+    <h1>Đây là section của HEader</h1>
+}
+<body>
+    <h2>Xin chào đây là Index Home</h2><br />
+<h2>@Model.Message</h2>
+
+    @section Footer {
+        <h1>Đây là section của Footer</h1>
+    }
+</body>
+</html>
