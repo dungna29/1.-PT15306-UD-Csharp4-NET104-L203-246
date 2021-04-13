@@ -1,0 +1,59 @@
+﻿@using Microsoft.AspNetCore.Mvc.Formatters
+@model IEnumerable<FinalAssignment_Csharp4_Dungna29.Models.Product>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@* Nếu gặp lỗi bổ sung TagHelper *@
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<h1>Quản lý sản phẩm 2021</h1>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <td>
+                <h2>Chức năng</h2>
+            </td>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a asp-action="Create" class="btn btn-outline-primary">Thêm mới</a>
+
+                @* <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> | *@
+                @* <a asp-action="Details" asp-route-id="@item.Id">Chi Tiết</a> | *@
+                
+                @* @Html.ActionLink("Xóa","DeleteProduct",new { item.Id}, new {@class = "btn-outline-danger" }); *@
+                <a asp-action="Delete" asp-route-idProduct="@item.Id" class="btn btn-outline-danger"  onclick="return confirm('Bạn có chắc muốn xóa bản ghi đó không')">Xóa</a>
+               
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

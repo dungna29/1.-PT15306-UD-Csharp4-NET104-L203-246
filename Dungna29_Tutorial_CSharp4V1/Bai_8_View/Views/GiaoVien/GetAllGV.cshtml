@@ -1,0 +1,39 @@
+﻿@using Bai_8_View.Models
+@{
+    Layout = "~/Views/Shared/_Layouts.cshtml";
+}
+
+
+
+<p>Test Section</p>
+
+<div class="w3-container">
+    <h2>Danh sách giáo viên FPOLY</h2>
+    <p>If you different hover colors, add w3-hover-<em>color</em> classes to each tr element:</p>
+
+    <table class="w3-table-all">
+        <thead>
+            <tr class="w3-light-grey w3-hover-red">
+                <th>Mã Giáo Viên</th>
+                <th>Tên Giáo Viên</th>
+                <th>Email</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+
+        @foreach (var x in new ServiceGiaoVien()._lstGiaoViens)
+        {
+            <tr class="w3-hover-green">
+                <td>@x.MaGV</td>
+                <td>@x.Ten</td>
+                <td>@x.Email</td>
+                <td>@x.Image</td>
+            </tr>
+        }
+
+
+    </table>
+    <h1>Tổng số giáo viên hiện nay: @(new ServiceGiaoVien()._lstGiaoViens.Count)</h1>
+</div>
+
+

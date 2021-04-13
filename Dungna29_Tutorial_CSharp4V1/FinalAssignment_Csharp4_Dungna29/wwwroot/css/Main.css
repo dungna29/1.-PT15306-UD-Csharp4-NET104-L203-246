@@ -1,0 +1,124 @@
+﻿body {
+    /* Vì mặc định margin của trình duyệt là 8px */
+    margin: 0px;
+}
+
+.img-fluid {
+    /* Cho tất cả các ảnh có trên website full rộng */
+    width: 100%;
+}
+
+.container {
+    /* ĐỘ rộng tối đa dựa vào việc đo trên file PTS */
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+
+/* ====Header=== */
+
+.header-top {
+    background: #272f54;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+
+.header-main {
+    background: #cb7802;
+    padding: 5px 5px 5px 5px;
+    /* Chia thành phần menu thành 2 phần */
+    display: flex;
+    /* Đưa các thành phần về 2 đầu */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    /* Reset lại margin và padding về 0*/
+    margin: 0;
+    padding: 0;
+    /* Bỏ chấm ở phần li */
+    list-style: none;
+}
+
+    .menu li {
+        /* Để các thành phần li nằm ngang */
+        display: inline-block;
+    }
+
+        .menu li a {
+            /* Bỏ gạch chân của thẻ a */
+            text-decoration: none;
+            color: #fefbfb;
+            padding: 0 20px 0 20px;
+            font-size: 12px;
+        }
+
+            .menu li a:hover {
+                /* Khi di chuột vào link sẽ gạch dưới */
+                text-decoration: underline;
+            }
+
+.form-search-input {
+    border: 1px solid #cccccc;
+    color: #ffffff;
+    height: 22px;
+}
+
+.form-search-btn {
+    background: #272f54;
+    border: 1px solid #cccccc;
+    color: #ffffff;
+    /* text-transform: uppercase; viết hoa tất cả chữ cái lên */
+    text-transform: uppercase;
+    height: 22px;
+}
+
+
+/* ====NEWS==== */
+
+.news h2.title {
+    color: #272f54;
+    font-size: 20px;
+    font-weight: bold;
+    /* Trái phải sẽ là 0 px còn trên dưới là 20px */
+    margin: 20px 0;
+}
+
+.news .row {
+    /* Sử dụng thuộc tính display gird để đưa row về dạng lưới */
+    display: grid;
+    /* 1fr tương ứng 1 col */
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    /* Khoảng cách giữa các cột */
+    /* grid-gap: 30px; */
+}
+
+    .news .row p {
+        text-align: justify;
+        line-height: 1.6;
+    }
+
+
+/* Sau khi xử lý row thì sẽ tiến hành xử lý COLUMN */
+
+.news .col {
+    border: 1px solid #cccccc;
+    /* Trên dưới trái phải */
+    padding: 15px 25px;
+    font-size: 20px;
+}
+
+.news h3 {
+    /* Đưa margin về 0 */
+    /* Trái phải 0px trên dưới 10px */
+    margin: 10px 0;
+}
+
+    .news h3 a {
+        color: #ad3f00;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+    }

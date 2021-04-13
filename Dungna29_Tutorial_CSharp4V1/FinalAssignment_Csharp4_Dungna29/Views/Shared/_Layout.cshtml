@@ -1,0 +1,85 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="~/css/Main.css" rel="stylesheet" />
+    @RenderSection("Header", false)
+</head>
+
+<body>
+    <!-- class="container" div bao quanh toàn bộ website -->
+    <div class="container">
+        <!-- Phần 1: Header -->
+        <header>
+            <!-- Phần 1.1 Phần header top bao gồm logo và bg -->
+            <div class="header-top">
+                <a href="#">
+                    <img src="~/Imgs/logo.png" alt="">
+                </a>
+            </div>
+            <!-- Phần 1.2 Menu -->
+            <div class="header-main">
+                <ul class="menu">
+                    <li>
+                        <a href="#">Trang chủ</a>
+                    </li>
+                    <li>
+                        <a href="#">Tuyển sinh</a>
+                    </li>
+                    <li>
+                        <a href="#">Chương trình đào tạo</a>
+                    </li>
+                    <li>
+                        <a href="#">Góc sinh viên</a>
+                    </li>
+                    <li>
+                        <a href="#">Tuyển dụng</a>
+                    </li>
+                </ul>
+                <!-- Form -->
+                <form action="" class="form-search">
+                    <!-- Input text vào để search -->
+                    <input type="text" class="form-search-input">
+                    <!-- Button Nút search -->
+                    <input type="submit" value="Tìm kiếm" class="form-search-btn">
+                </form>
+            </div>
+        </header>
+        <!-- Banner nằm sau header main chính là menu -->
+        <div class="banner">
+            <a href="#">
+                <img src="~/Imgs/banner.png" alt="">
+            </a>
+        </div>
+
+        <!-- Phần 2: Body -->
+        <div class="news">
+            <h2 class="title">THỰC HÀNH C#4</h2>
+            <!-- Tạo ra 1 dòng -->
+            <div class="row">
+                <!-- Cột 1 -->
+                <div class="col">
+                   
+                    @RenderBody()
+                </div>
+              
+            </div>
+        </div>
+        <!-- Phần 3: Footer -->
+        <footer>
+            @RenderSection("Footer", false)
+            <h1>DUNGNA29 C#4</h1>
+        </footer>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+﻿Bước 1:	
+	+ Chuẩn bị sẵn Database
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore Tools
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore SqlServer
+Bước 2: 
+	+ Cấu hình kết nối trong appsettings.json - ConnectionStrings
+	+ Vào Menu => Tools => Nuget Package Manager => Package Manager Conconsole
+		- Gõ lệnh: Scaffold-DbContext "Chuỗi kết nối" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -context DatabaseContext -Contextdir Context -DataAnnotations -Force
+		- Scaffold-DbContext "Data Source=DUNGNAPC\SQLEXPRESS;Initial Catalog=Dungna_FPTShopV2;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -context DatabaseContext -Contextdir Context -DataAnnotations -Force
+	+ Chúng ta vẫn cấu hình trên Startup như code first

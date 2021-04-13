@@ -1,0 +1,6 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.MvcApplicationPartsAssemblyInfo.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.RazorAssemblyInfo.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#4\Dungna29_Tutorial_C#4V1\Dungna29_Tutorial_CSharp4V1\Bai_10_Session\obj\Debug\netcoreapp3.1\Bai_9.1_Session.RazorAssemblyInfo.cs

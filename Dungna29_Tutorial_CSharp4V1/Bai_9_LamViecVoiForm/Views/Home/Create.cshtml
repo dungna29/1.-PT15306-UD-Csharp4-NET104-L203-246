@@ -1,0 +1,32 @@
+﻿@model Bai_9_LamViecVoiForm.Models.Product
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+   
+<form asp-controller="Home" asp-action="Create" method="post">
+    <!label asp-for="Name"></!label>
+    <input  asp-for="Name" />
+    <label  asp-for="Rate"></label>
+    <input asp-for="Rate" asp-format="{0:N2}"/>
+    <label  asp-for="Rating"></label>
+    <input asp-for="Rating" />
+    <label  asp-for="Email"></label>
+    <input asp-for="Email" />
+    <label  asp-for="NgayTao"></label>
+    <input asp-for="NgayTao" />
+    <input type="submit" name="Thêm mới" />
+</form>
+</body>
+</html>

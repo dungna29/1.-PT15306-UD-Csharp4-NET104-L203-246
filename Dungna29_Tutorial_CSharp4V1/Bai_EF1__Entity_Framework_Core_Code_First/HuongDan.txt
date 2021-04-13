@@ -1,0 +1,17 @@
+﻿Bước 1:	
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore Tools
+	+ Tiến hành cài đặt thêm package EnityFrameworkCore SqlServer
+Bước 2: 
+	+ Tạo thư mục Models bên trong có các Lớp đối tượng tương ứng với các TABLE có trong DB và các thuộc tính. (Mở Models xem cách tạo và triển khai)
+	+ Tạo 1 thư mục Context --> Tạo Class --> DatabaseContext.cs (Yêu cầu phải kế thừa lớp DbContext và sử dụng thư viện EntityFrameworkCore) và các thành phần tương tự nhưng trong file mẫu đã tạo.
+Bước 3:
+	+ Cấu hình trên appsettings.json đường dẫn vào database, Initial Catalog=Dungna29 nếu chưa có DB thì sẽ tự động tạo DB với tên tương ứng
+	+ Cấu hình ConfigureServices giống với đường dẫn 
+Bước 4:
+	+ Gọi Package Manager Console Vào Menu => Tools => Nuget Package Manager => Package Manager Conconsole
+		- 1: Khởi tạo Migrations  add-migration <Tên Migrations>
+		- 2.  update-database tiến cập nhật vào DB
+	
+
+	

@@ -1,0 +1,45 @@
+﻿@model FinalAssignment_Csharp4_Dungna29.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Tạo mới sản phẩm</h1>
+
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <div class="row">
+                    <div class="col-md-1">
+                        <form asp-action="CreateProduct">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Description" class="control-label"></label>
+                                <input asp-for="Description" class="form-control" />
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </th>
+        </tr>
+    </thead>
+  
+</table>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
