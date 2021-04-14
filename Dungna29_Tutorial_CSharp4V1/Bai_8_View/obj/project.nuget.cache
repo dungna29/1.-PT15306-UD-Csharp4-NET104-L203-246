@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5l9ffgnrDPJPPhOvSnBw2Ynae6yJRKJVA6NWFjnDevcZps6AU4C9jf2NhbQKsV4bJaZz38cpyPXLrAqUz6ln4A==",
+  "dgSpecHash": "YVtLoqRCu1P2iS9TNrm2EXZkh2YODxLblEFRqBLPfeBZsy3oKSVpFa/mOMI3uFa2+V5xHowfa7A6cVjjwIxNgQ==",
   "success": true,
-  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_8_View\\Bai_8_View.csproj",
+  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_8_View\\Bai_8_View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

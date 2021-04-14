@@ -8827,11 +8827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
+      "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
       "projectName": "Bai_EF1__Entity_Framework_Core_Code_First",
-      "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
+      "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
       "packagesPath": "C:\\Users\\Dungna29\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\obj\\",
+      "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dungna29\\AppData\\Roaming\\NuGet\\NuGet.Config",

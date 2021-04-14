@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj": {}
+    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj": {}
   },
   "projects": {
-    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj": {
+    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj",
+        "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj",
         "projectName": "FinalAssignment_Csharp4_Dungna29",
-        "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj",
+        "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\FinalAssignment_Csharp4_Dungna29.csproj",
         "packagesPath": "C:\\Users\\Dungna29\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\obj\\",
+        "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\FinalAssignment_Csharp4_Dungna29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dungna29\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hY75i6NfmkfafBdaJGwk5gsetL2gHduSeTlRqRv17KOb2jGayElWEHrrp14+zusK/6iHNnnj+OAIOkLpMeJeCg==",
+  "dgSpecHash": "RELX20wNVg3Rw7tC8wh2uew0V17zW6DMNBie/oamChtiYf4UYZxUt93RigTnwitsFuC3z6PbzxojlsBNXr4Y0w==",
   "success": true,
-  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_EF2__Entity_Framework_Core_DB_First\\Bai_EF2__Entity_Framework_Core_DB_First.csproj",
+  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_EF2__Entity_Framework_Core_DB_First\\Bai_EF2__Entity_Framework_Core_DB_First.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

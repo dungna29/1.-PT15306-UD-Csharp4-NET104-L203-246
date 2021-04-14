@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxmZhgV8ByCFB4ICI/4HaRtddUkqTpYnv+d2Co8mW+oPGnwSRax4g7OXct01ptpXceAdwPWo8xSkWMro8UwbcQ==",
+  "dgSpecHash": "pujWwvbKGIYwO4PIkjZx3zCT4QDsnPCGhI52FTKux/5CzSwMK275H/IMg6j04ni6AjulfLucPWX6Sa7xMb7ESw==",
   "success": true,
-  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\Dungna29_Tutorial_C#4V1\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
+  "projectFilePath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#4\\1.-PT15306-UD-Csharp4-NET104-L203-246\\Dungna29_Tutorial_CSharp4V1\\Bai_EF1__Entity_Framework_Core_Code_First\\Bai_EF1__Entity_Framework_Core_Code_First.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Dungna29\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
